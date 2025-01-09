@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9b730ae638fc402a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee0e06c953a7f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5863686e0a50e70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tech Stack"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b66ae1bcfbb0d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8141787acb5c0e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50465aabec46c55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "256b36e2dfd13305",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac50e9ced7cc82eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1b40e59964ae4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5573eb17153d55d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7403668606dbe2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring Boot/Web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Web"
+            }
+          },
+          {
+            "id": "150dc01bd08f59b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring Boot/Web.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Web"
+            }
+          },
+          {
+            "id": "8eb70ed54d79cd51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d61bb8ad06babe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring Boot/Web.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Web"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5863686e0a50e70",
+  "lastOpenFiles": [
+    "Java Core.md",
+    "SOLID.md",
+    "Spring Boot/Data JPA.md",
+    "Spring Boot/Cloud.md",
+    "Spring Boot/AOP.md",
+    "Tech Stack.md",
+    "Liquibase.md",
+    "Spring Boot/Web.md",
+    "Spring Boot.md",
+    "Spring Boot",
+    "SOLID"
+  ]
+}
